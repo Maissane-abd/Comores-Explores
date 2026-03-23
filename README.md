@@ -71,10 +71,10 @@ npm install
 
 # 3. Lancer l'environnement avec Docker
 docker-compose up --build
+"""
 
 ---
 
 ## ✍️ Auteur
 **Maïssane ABDALLAH** – *Project Manager & Full Stack Developer*
 Passionnée par la mise en valeur du patrimoine comorien à travers la technologie.
-"""
