@@ -71,7 +71,7 @@ npm install
 
 # 3. Lancer l'environnement avec Docker
 docker-compose up --build
-"""
+```
 
 ---
 
