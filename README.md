@@ -7,7 +7,7 @@
 ## 🌟 Vision du Projet
 **Explore-Comores** est né d'un constat : l'ennui ou la frustration lors d'un voyage aux Comores ne vient pas du manque d'activités, mais du **manque d'accès à l'information**. 
 
-Ce projet vise à briser "l'effet archipel fantôme" en centralisant tout ce qu'un visiteur — qu'il soit de la diaspora ou touriste international — a besoin de savoir pour planifier son séjour ou se dépanner sur place.
+Ce projet vise à briser "l'effet archipel fantôme" en centralisant tout ce qu'un visiteur (qu'il soit de la diaspora ou touriste international) a besoin de savoir pour planifier son séjour ou se dépanner sur place.
 
 ---
 
