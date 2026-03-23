@@ -64,7 +64,7 @@ Le projet repose sur une architecture robuste pensée pour le **Mobile-First** e
 
 ```bash
 # 1. Cloner le projet
-git clone [https://github.com/Maissane-abd/explore-comores.git](https://github.com/Maissane-abd/explore-comores.git)
+git clone [https://github.com/Maissane-abd/comores-explores.git](https://github.com/Maissane-abd/comores-explores.git)
 
 # 2. Installer les dépendances
 npm install
